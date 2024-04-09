@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RediEx</string>
+
+    <string name="text1">
+    <font color="#A7A7A7">By ticking this box, you agree to our</font>
+        <font color="#ffc02b">Terms and conditions and private policy</font>
+    </string>
+
+    <string name="text2">
+    <font color="#A7A7A7">Already have an account?</font>
+        <font color="#0560FA"> Sign in</font>
+    </string>
+
+    <string name="pdf">By ticking this box, you agree to our <a href="">Terms and conditions and private policy</a></string>
+
+</resources>
